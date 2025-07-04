@@ -19,3 +19,8 @@ CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
 # Ellis
 
 #docker-compose up -d (sem -d)
+
+ # YMAL
+
+ # gcloud run 
+ 
